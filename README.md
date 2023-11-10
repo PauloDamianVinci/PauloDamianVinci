@@ -27,7 +27,7 @@ En este momento ya completé el Bootcamp Fullstack Developer en Henry, donde sum
 ## 😏 Mis proyectos
 
   Hace tiempo atrás, los desarrollos quedaban guardados en diskettes dentro de una caja fuerte. Afortunadamente hoy puedo mostrar, al menos, mi proyecto integrador PI Videogames.
-  Es un desarrollo de un proyecto individual, aplicando exclusivamente los conocimientos y tecnologías incluidas en la cursada (React, React Router, Redux Toolkit, Styled components, CSS modules, Express, Sequelize, PostgreSQL, Axios). Temática: videojuegos.
+  Se trata de mi proyecto individual, aplicando exclusivamente los conocimientos y tecnologías incluidas en la cursada (React, React Router, Redux Toolkit, Styled components, CSS modules, Express, Sequelize, PostgreSQL, Axios). Temática: videojuegos.
   
 Repo: [[https://www.linkedin.com/in/paulo-damian-vinci/videogames/](https://github.com/PauloDamianVinci/videogames)]
 
