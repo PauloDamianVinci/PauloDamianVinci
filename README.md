@@ -31,6 +31,7 @@ En este momento ya completé el Bootcamp Fullstack Developer en Henry, donde sum
   
 Repo: [[https://www.linkedin.com/in/paulo-damian-vinci/videogames/](https://github.com/PauloDamianVinci/videogames)]
 
+Deploy: [[[https://www.linkedin.com/in/paulo-damian-vinci/videogames/](https://client-jet-omega.vercel.app)]
 
 ## 📲 Contacto
 
